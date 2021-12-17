@@ -1,0 +1,2 @@
+class MittensController < ApplicationController
+end
